@@ -15,13 +15,13 @@ body, h2, p, ul, li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 10px;
     background: #000;
     color: #fff;
   }
   
   .logo {
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
   }
   
